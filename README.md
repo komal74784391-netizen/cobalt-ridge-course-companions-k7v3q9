@@ -1,23 +1,17 @@
-# R Workshop for Quantitative Studio II
+# Cobalt Ridge Graduate School — Course Companion Packs (Autumn 2026)
 
-Companion repository for QTS-482 — Quantitative Studio II.
+Public workspace for the companion packs used by the Autumn 2026
+Applied Data Science programme. Each pack is maintained by the
+course teaching team.
 
-**Maintainer:** Tyler Roberts
-**Term:** Autumn 2026
-**Citation:** Roberts, T. (2026). R Workshop for Quantitative Studio II. Cobalt Ridge Graduate School, Department of Applied Data Science.
+## Packs
 
-## Distribution Status
+- `companions/QTS-482` — R Workshop for Quantitative Studio II
+- `companions/PHE-527` — Case Analysis Reading Pack
+- `companions/ASC-735` — Simulation Lab Reference Implementation
+- `companions/SEC-443` — Threat Modeling Worksheets
+- `companions/DBM-591` — Normalization Drills and Schema Templates
 
-This repository is released. The materials in this repository are final for the Autumn 2026 offering and may be used by enrolled students.
+## Maintainer
 
-## Repository Layout
-
-- `src/` — workflow source modules
-- `data/` — input fixtures
-- `notebooks/` — session notebooks
-- `results/` — generated outputs
-- `tests/` — environment smoke tests
-
-## About
-
-Hands-on R workflows, plotting helpers and the studio data fixtures used throughout Quantitative Studio II.
+Tyler Roberts, Department of Applied Data Science.
